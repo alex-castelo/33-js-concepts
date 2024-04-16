@@ -13,53 +13,6 @@ This repository was created with the intention of helping developers master thei
 
 **🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
-
-Feel free to submit a PR by adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
-
-All the translations for this repo will be listed below:
-
-- [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
-- [Български (Bulgarian)](https://github.com/thewebmasterp/33-js-concepts) - thewebmasterp
-- [汉语 (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Português do Brasil (Brazilian Portuguese)](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [한국어 (Korean)](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Español (Spanish)](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Türkçe (Turkish)](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [русский язык (Russian)](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Tiếng Việt (Vietnamese)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polski (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [فارسی (Persian)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Bahasa Indonesia (Indonesian)](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
-- [Français (French)](https://github.com/robinmetral/33-concepts-js) — Robin Métral
-- [हिन्दी (Hindi)](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Ελληνικά (Greek)](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [日本語 (Japanese)](https://github.com/oimo23/33-js-concepts) — oimo23
-- [Deutsch (German)](https://github.com/burhannn/33-js-concepts) — burhannn
-- [украї́нська мо́ва (Ukrainian)](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
-- [සිංහල (Sinhala)](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
-- [Italiano (Italian)](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
-- [Latviešu (Latvian)](https://github.com/ANormalStick/33-js-concepts) - Jānis Īvāns
-- [Afaan Oromoo (Oromo)](https://github.com/Amandagne/33-js-concepts) - Amanuel Dagnachew
-- [ภาษาไทย (Thai)](https://github.com/ninearif/33-js-concepts) — Arif Waram
-- [Català (Catalan)](https://github.com/marioestradaf/33-js-concepts) — Mario Estrada
-- [Svenska (Swedish)](https://github.com/FenixHongell/33-js-concepts/) — Fenix Hongell
-- [ខ្មែរ (Khmer)](https://github.com/Chhunneng/33-js-concepts) — Chrea Chanchhunneng
-- [አማርኛ (Ethiopian)](https://github.com/hmhard/33-js-concepts) - Miniyahil Kebede(ምንያህል ከበደ)
-- [Беларуская мова (Belarussian)](https://github.com/Yafimau/33-js-concepts) — Dzianis Yafimau
-- [O'zbekcha (Uzbek)](https://github.com/smnv-shokh/33-js-concepts) — Shokhrukh Usmonov
-- [Urdu (اردو)](https://github.com/yasir2002/33-js-concepts) — Yasir Nawaz
-- [Marathi (मराठी)](https://github.com/dhruvchandak30/33-js-concepts) - Dhruv Chandak
-- [हिन्दी (Hindi)](https://github.com/milostivyy/33-js-concepts) — Mahima Chauhan
-- [বাংলা (Bengali)](https://github.com/Jisan-mia/33-js-concepts) — Jisan Mia
-- [ગુજરાતી (Gujarati)](https://github.com/VatsalBhuva11/33-js-concepts) — Vatsal Bhuva
-- [سنڌي (Sindhi)](https://github.com/Sunny-unik/33-js-concepts) — Sunny Gandhwani
-- [भोजपुरी (Bhojpuri)](https://github.com/debnath003/33-js-concepts) — Pronay Debnath
-- [ਪੰਜਾਬੀ (Punjabi)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
-- [தமிழ் (Tamil)](https://github.com/Jaimin25/33-js-concepts) - Jaimin Chovatia
-- [Latin (Latin)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
-- [മലയാളം (Malayalam)](https://github.com/Stark-Akshay/33-js-concepts) — Akshay Manoj
-
 ---
 ## <img  align= center width=50px height=50px src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif?cid=6c09b952m4j3poopinf91rquev6qy4e8avu0bflq1e0vh4gp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> <a id="table-of-contents">Table of Contents</a>
 
@@ -1240,6 +1193,3 @@ All the translations for this repo will be listed below:
 - 🎥 [Tips On Learning How To Code](https://www.youtube.com/watch?v=0wHyoBPc6zs)
 
 **[⬆ Back to Top](#table-of-contents)**
-
-## <img  align= center width=50px height=50px src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> License <a id = "License"></a>
-This software is licensed under MIT License, See [License](https://github.com/leonardomso/33-js-concepts/blob/master/LICENSE) for more information ©Leonardo Maldonado.
